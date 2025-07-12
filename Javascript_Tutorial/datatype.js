@@ -1,4 +1,4 @@
-// Data Types in Javascript
+// data types in javascript
 
 let a = 12;
 console.log(a)

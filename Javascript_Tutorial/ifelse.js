@@ -1,3 +1,5 @@
+// if else condition in javascript
+
 let age = 23;
 
 if (age > 18) {

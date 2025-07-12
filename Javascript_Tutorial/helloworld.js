@@ -1,3 +1,3 @@
-// Printing Hello World in javascript
+// printing Hello World in javascript
 
 console.log("Hello World")   
