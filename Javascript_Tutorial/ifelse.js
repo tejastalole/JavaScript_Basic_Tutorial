@@ -1,4 +1,4 @@
-let a = 23;
+let age = 23;
 
 if (age > 18) {
     console.log("You are eligible for vote")
