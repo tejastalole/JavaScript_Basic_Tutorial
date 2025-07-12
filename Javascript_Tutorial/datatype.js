@@ -5,3 +5,6 @@ console.log(a)
 
 var b = "Dummy text";
 console.log(b)
+
+const c = "age";
+console.log(c)
